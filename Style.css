@@ -1,0 +1,29 @@
+.container{
+    background-image:url(./imgs/background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2% 5%;
+}
+.rContent{
+    display: flex;
+    justify-content: flex-end;
+}
+.lContent{
+    display: flex;
+    justify-content: flex-start;
+}
+.avatar{
+    text-align: center;
+}
+.avatar img{
+    width: 50%;
+}
+.bTittle{
+    color: aliceblue;
+    background-color: green;
+    border-radius: 25px;
+    padding: 2%;
+}
+p{
+    margin: 2px;
+}
